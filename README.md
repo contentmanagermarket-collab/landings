@@ -4,6 +4,8 @@
 
 ## Презентации
 
+- [«ЭкоСфера» для СУЭК](https://contentmanagermarket-collab.github.io/landings/suek.html) — `suek.html`
+
 - [«ЭкоСфера» для Pirelli](https://contentmanagermarket-collab.github.io/landings/) — `index.html`
 - [Опыт «ЭкоСферы» в Сбере](https://contentmanagermarket-collab.github.io/landings/sber.html) — `sber.html`
 - [Предложение «ЭкоСферы» для Сбербанка в ЦФО](https://contentmanagermarket-collab.github.io/landings/sbervoronezh.html) — `sbervoronezh.html`
